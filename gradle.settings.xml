@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="GradleSystemSettings">
+    <option name="gradleVmOptions" value="-Xms128m -Xmx256m -Djava.net.preferIPv4Stack=true" />
+  </component>
+</application>
+
