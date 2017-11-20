@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="creditRegistry" type="PLAIN_TEXT" />
+      <mapping pattern="exclusions" type="PLAIN_TEXT" />
+      <mapping pattern="xxx" type="PLAIN_TEXT" />
+      <mapping ext="def" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="po" type="PLAIN_TEXT" />
+      <mapping ext="excluded" type="PLAIN_TEXT" />
+      <mapping ext="non-checksum" type="PLAIN_TEXT" />
+      <mapping ext="sig" type="PLAIN_TEXT" />
+      <mapping ext="lap" type="PLAIN_TEXT" />
+      <mapping ext="fingerprint" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile" type="Docker file" />
+    </extensionMap>
+  </component>
+</application>
